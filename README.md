@@ -118,8 +118,6 @@ Food_Rating_Category = SWITCH(
 
 - How does the age distribution of consumers vary by state?
 
-    In all three states, young adults under 30 years of age form the majority of the population. In two states, San Luis Potosí and Morelos, the second largest demographic consists of seniors, aged over 60 years.
-
 - What percentage of consumers are smokers or non-smokers in each city?
 
     The vast majority of consumers from all four cities are non-smokers, with Jiutepec having a 100% non-smoking population. In Cuernavaca city, smokers make up 25% of the population.
@@ -192,3 +190,10 @@ Food_Rating_Category = SWITCH(
 
     The top five restaurants with high customer satisfaction ratings are Tortas Locas Hipocampo, where most consumers are highly satisfied, and Puesto de Tacos, which has received 30 highly satisfied consumer ratings. Cafeteria y Restaurante El Pacífico follows closely with 24 consumers rating it as highly satisfactory, while La Cantina Restaurante boasts 28 highly satisfied ratings. Rounding out the list, Restaurant la Chalita has garnered 20 high satisfaction ratings from its customers.
   
+
+## Dashboard
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/d30d2d99-d1d9-4e04-bd0d-ffb79b1c8ac3" />
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/f6840cb0-b0ea-48a8-9539-60097260a5d6" />
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9d8249e-8506-405b-b290-70c6c6b0a64b" />
+<img width="2075" height="1200" alt="image" src="https://github.com/user-attachments/assets/525bf8e7-1e6f-45d7-84ca-cd5b6e530d52" />
+
